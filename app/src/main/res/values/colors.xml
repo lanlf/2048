@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="lColor">#00b4fc</color>
+    <color name="mColor">#003cff</color>
+    <color name="hColor">#5e00ff</color>
+    <color name="layoutColor">#0affca</color>
+    <color name="gameColor">#c1dbf1</color>
+    <color name="btPressColor">#9ea198</color>
+    <color name="btNormalColor">#ffffff</color>
+    <color name="textColor">#0095ff</color>
 </resources>
